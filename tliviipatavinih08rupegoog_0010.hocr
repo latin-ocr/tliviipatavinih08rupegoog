@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih08rupegoog/tliviipatavinih08rupegoog_0010.png"; bbox 0 0 3184 4934; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 639 225 786 288">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 639 225 786 288">
+     <span class='ocr_line' id='line_1_1' title="bbox 639 225 786 288; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 639 225 786 288; x_wconf 60' lang='grc' dir='ltr'><strong>ΒΘ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 967 357 1959 776">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 967 357 1959 776">
+     <span class='ocr_line' id='line_1_2' title="bbox 967 357 1959 441; baseline 0.002 -23"><span class='ocrx_word' id='word_1_2' title='bbox 967 363 1308 441; x_wconf 54' lang='grc' dir='ltr'><strong>Ηατναςᾱ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1337 357 1619 424; x_wconf 70' lang='lat' dir='ltr'>oouece</span> <span class='ocrx_word' id='word_1_4' title='bbox 1652 363 1959 436; x_wconf 62' lang='lat' dir='ltr'><strong>Libram</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1171 447 1719 517; baseline -0.004 -5"><span class='ocrx_word' id='word_1_5' title='bbox 1171 447 1362 512; x_wconf 76' lang='lat' dir='ltr'><strong>June</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1401 449 1507 517; x_wconf 80' lang='lat'><strong>16.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1545 451 1719 514; x_wconf 80' lang='lat'>1917</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1007 535 1885 622; baseline 0.003 -29"><span class='ocrx_word' id='word_1_8' title='bbox 1007 538 1221 622; x_wconf 51' lang='lat' dir='ltr'><strong>Rrom</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1271 541 1392 592; x_wconf 79' lang='lat' dir='ltr'><strong>the</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1449 535 1759 604; x_wconf 67' lang='lat' dir='ltr'><strong>Libmry</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1802 541 1885 596; x_wconf 77' lang='lat' dir='ltr'><strong>of</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1039 624 1847 694; baseline 0.002 -12"><span class='ocrx_word' id='word_1_12' title='bbox 1039 626 1290 682; x_wconf 65' lang='lat' dir='ltr'><strong>June·</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1327 627 1394 684; x_wconf 84' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1439 624 1847 694; x_wconf 60' lang='lat' dir='ltr'><strong>nimiunn</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 1265 711 1685 776; baseline 0 -2"><span class='ocrx_word' id='word_1_15' title='bbox 1265 713 1446 776; x_wconf 64' lang='lat' dir='ltr'><strong>Now</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1481 711 1685 774; x_wconf 75' lang='lat' dir='ltr'><strong>York</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
